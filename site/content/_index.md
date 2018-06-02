@@ -1,5 +1,5 @@
 ---
-title: Giglue
+title: Giglue Bhai
 subtitle: Helping Artist Market Themselves Better!
 image: /img/home-jumbotron.jpg
 blurb:
